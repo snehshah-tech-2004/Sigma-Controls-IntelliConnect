@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "build": 2,
-  "url": "https://github.com/snehshah-tech-2004/Sigma-Controls-IntelliConnect/releases/download/v1.1/firmware.bin",
-  "notes": "Firmware UI top/collapsed, OTA safety, delayed mark-valid"
+  "version": "1.1.1",
+  "build": 3,
+  "url": "https://github.com/snehshah-tech-2004/Sigma-Controls-IntelliConnect/releases/download/v1.1.1/firmware.bin",
+  "notes": "OTA Bug Fixes"
 }
